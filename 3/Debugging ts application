@@ -1,0 +1,12 @@
+to generate tsconfig.json 
+
+
+tsc --init
+
+then we need to enable sourceMap
+
+
+sourceMap is a file that specifies how each line of ts code maps to generated js code.
+
+
+

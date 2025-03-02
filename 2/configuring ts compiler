@@ -1,0 +1,31 @@
+In terminal type 
+
+tsc --init 
+
+to create config file for typescript
+
+
+in tsconfig.json file 
+
+most of the settings were commented out
+
+target   ------ specifies the js code version we get after it has been complied from ts 
+
+under modules  
+
+rootDir   ------ specifies the ts file directory
+
+
+under emit
+
+
+outDir  ------ represents the js file directory    mostly we give directory name as dist or distributable folder
+
+
+removeComments  ---- it removes the comments in the js code which has been added in the ts file. 
+
+noEmitOnError  ----- By default if there is any error in ts file , ts compiler will generate javascript file. by enabling it , it will prevent js file to generate if there is any error in ts file.
+
+
+
+

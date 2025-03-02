@@ -1,0 +1,33 @@
+
+fundamentals
+
+1) the any Type
+2) Arrays
+3) Tuples
+4) Enums
+5) Functions
+6) Objects
+
+
+Built in types
+
+Javascript
+
+number
+string 
+boolean
+null
+undefined
+object
+
+
+Typescript
+
+any
+unknown
+never 
+enum 
+tuple
+
+
+

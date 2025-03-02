@@ -1,0 +1,33 @@
+Typescript 
+
+Typescript is built on top of javascript and it have some additional features compared to javascript.
+
+Typescript is statically typed.
+
+In typescript we can't change the type of the variable from number to string the typescript complier will stop it right there and it happens in compiler time, we dont need to run our application and test cases to catch the error.
+
+
+1)  Type checking 
+2) By using type script we can detect the type of the varible and offer productivity boosting features like code completion and refactoring 
+3) New facture that helps us to write cleaner and more concise code.
+
+
+Benefits:
+1) Static typing 
+2) code completion 
+3) refactoring
+4) shorthand notation
+
+Drawbacks:
+1) compilation - browser does not understand typescript hence we need to give our typescript code to complier to transfer into javascript code this process is called as transpilation.
+
+2) Displine in coding.
+
+
+Setting up the environment :
+
+sudo npm i -g typescript
+
+tsc -v              / To check the version /
+
+
